@@ -1,0 +1,14 @@
+#######################################
+# Syntax Coloring Map - TimeManager
+#######################################
+
+# Classes (KEYWORD1 - orange)
+TimeManager	KEYWORD1
+DateTime	KEYWORD1
+
+# Methods (KEYWORD2 - brown)
+getCurrentTime	KEYWORD2
+setTime	KEYWORD2
+isSafetyIntervalPassed	KEYWORD2
+recordDispenseTime	KEYWORD2
+isScheduledTime	KEYWORD2

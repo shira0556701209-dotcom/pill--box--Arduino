@@ -1,0 +1,11 @@
+#######################################
+# Syntax Coloring Map - AuthModule
+#######################################
+
+# Classes (KEYWORD1 - orange)
+AuthModule	KEYWORD1
+
+# Methods (KEYWORD2 - brown)
+identifyUser	KEYWORD2
+resetAuth	KEYWORD2
+isUserAuthenticated	KEYWORD2

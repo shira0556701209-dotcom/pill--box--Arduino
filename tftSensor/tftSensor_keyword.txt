@@ -1,0 +1,51 @@
+#######################################
+# Syntax Coloring Map For tftSensor
+#######################################
+
+# Functions (KEYWORD2)
+tft_init		KEYWORD2
+tft_setBacklight	KEYWORD2
+tft_fillScreen		KEYWORD2
+tft_drawPixel		KEYWORD2
+tft_drawLine		KEYWORD2
+tft_drawRect		KEYWORD2
+tft_fillRect		KEYWORD2
+tft_drawCircle		KEYWORD2
+tft_fillCircle		KEYWORD2
+tft_fillRoundRect	KEYWORD2
+tft_setCursor		KEYWORD2
+tft_setTextSize		KEYWORD2
+tft_setTextColor	KEYWORD2
+tft_print		KEYWORD2
+tft_println		KEYWORD2
+tft_printInt		KEYWORD2
+tft_printCentered	KEYWORD2
+tft_buttonInit		KEYWORD2
+tft_buttonDraw		KEYWORD2
+tft_buttonHit		KEYWORD2
+tft_getTouch		KEYWORD2
+tft_waitForTouch	KEYWORD2
+tft_showHomeScreen	KEYWORD2
+tft_showReminderScreen	KEYWORD2
+tft_showConfirmScreen	KEYWORD2
+tft_showInventoryScreen	KEYWORD2
+tft_showError		KEYWORD2
+
+# Constants (LITERAL1)
+TFT_BLACK	LITERAL1
+TFT_WHITE	LITERAL1
+TFT_RED		LITERAL1
+TFT_GREEN	LITERAL1
+TFT_BLUE	LITERAL1
+TFT_YELLOW	LITERAL1
+TFT_CYAN	LITERAL1
+TFT_MAGENTA	LITERAL1
+TFT_ORANGE	LITERAL1
+TFT_GRAY	LITERAL1
+TFT_WIDTH	LITERAL1
+TFT_HEIGHT	LITERAL1
+HAND_DETECT_THRESHOLD_CM	LITERAL1
+
+# Structs (KEYWORD1)
+TouchPoint	KEYWORD1
+TFTButton	KEYWORD1

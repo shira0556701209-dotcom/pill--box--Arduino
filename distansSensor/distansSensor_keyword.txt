@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For distansSensor
+#######################################
+
+# Functions (KEYWORD2)
+distans_init		KEYWORD2
+distans_measure		KEYWORD2
+distans_measureAvg	KEYWORD2
+distans_isHandDetected	KEYWORD2
+distans_isMedicineTaken	KEYWORD2
+distans_update		KEYWORD2
+distans_getLastDistance	KEYWORD2
+distans_resetTaken	KEYWORD2
+
+# Constants (LITERAL1)
+HAND_DETECT_THRESHOLD_CM	LITERAL1
+DISTANS_SAMPLE_COUNT		LITERAL1
+DISTANS_MAX_CM			LITERAL1
+DISTANS_MIN_CM			LITERAL1
+DISTANS_OK			LITERAL1
+DISTANS_ERR_TIMEOUT		LITERAL1
+DISTANS_ERR_RANGE		LITERAL1
+
+# Struct (KEYWORD1)
+DistansSensor	KEYWORD1

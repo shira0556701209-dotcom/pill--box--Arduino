@@ -1,0 +1,10 @@
+#######################################
+# Syntax Coloring Map - Dispenser
+#######################################
+
+# Classes (KEYWORD1 - orange)
+Dispenser	KEYWORD1
+
+# Methods (KEYWORD2 - brown)
+releasePill	KEYWORD2
+lockServo	KEYWORD2

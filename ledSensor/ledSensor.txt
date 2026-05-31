@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map - AlertSystem
+#######################################
+
+# Classes (KEYWORD1 - orange)
+AlertSystem	KEYWORD1
+
+# Constants (KEYWORD1 - orange)
+AlertType	KEYWORD1
+LightColor	KEYWORD1
+
+# Enum values (LITERAL1 - blue)
+ALERT_MEDICATION_TIME	LITERAL1
+ALERT_PAIN_REQUEST	LITERAL1
+ALERT_STOCK_LOW	LITERAL1
+ALERT_MISSED_DOSE	LITERAL1
+COLOR_OFF	LITERAL1
+COLOR_RED	LITERAL1
+COLOR_GREEN	LITERAL1
+COLOR_BLUE	LITERAL1
+COLOR_YELLOW	LITERAL1
+
+# Methods (KEYWORD2 - brown)
+activateAlert	KEYWORD2
+setLightStatus	KEYWORD2
+blinkLED	KEYWORD2
+turnOffAll	KEYWORD2

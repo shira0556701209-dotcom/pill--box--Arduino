@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map For laserSensor
+#######################################
+
+# Functions (KEYWORD2)
+laserSensor_init	KEYWORD2
+laserSensor_readCell	KEYWORD2
+laserSensor_readAll	KEYWORD2
+laserSensor_isCellEmpty	KEYWORD2
+laserSensor_allEmpty	KEYWORD2
+laserSensor_stateChanged	KEYWORD2
+laserSensor_emptyCellCount	KEYWORD2
+laserSensor_update	KEYWORD2
+
+# Constants (LITERAL1)
+NUM_CELLS	LITERAL1
+CELL_EMPTY	LITERAL1
+CELL_OCCUPIED	LITERAL1
+CELL_ERROR	LITERAL1
+
+# Struct (KEYWORD1)
+LaserCell	KEYWORD1
