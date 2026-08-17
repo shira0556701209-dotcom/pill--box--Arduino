@@ -4,10 +4,9 @@
 SmartCam myCam;
 
 // הגדרות הרשת שלך
-// const char* ssid = "SEMINAR";
-// const char* password = "12345678";
-const char* ssid = "HUAWEI-2064";
-const char* password = "T92DH6J72BT";
+// const char* ssid = "my-wifi";
+// const char* password = "my- password";
+
 
 void setup() {
   Serial.begin(115200);
